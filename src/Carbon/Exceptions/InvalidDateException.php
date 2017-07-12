@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Carbon\Exceptions;
+namespace Famdirksen\Exceptions;
 
 use Exception;
 use InvalidArgumentException;
